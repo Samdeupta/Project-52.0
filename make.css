@@ -1,0 +1,30 @@
+.camel{
+    color: #fdb821;
+}
+
+.chameleon{
+    color: #0e720e;
+}
+
+.pegion{
+    color: #757575;
+}
+
+.panda{
+    color: #000000;
+}
+
+.teddy{
+    color: #533308;
+}
+h1 {
+    margin-left: 850px;
+}
+
+.pic:hover img{
+    opacity: 0.5;
+}
+
+.Title{
+    padding-top: 40px;
+}
